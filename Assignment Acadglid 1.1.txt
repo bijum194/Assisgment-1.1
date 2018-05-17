@@ -1,0 +1,16 @@
+Assisgnment 1.1 of Acadglid 
+
+Answer for the assingment are below
+
+Q)1. v<-c(25.5,6) 
+t<-t(8,3,4)
+print(v%/%t)
+
+by adding both vectors together you will get the below  answer's
+
+10.0  8.5  10.0
+
+Q) 2We will use the built in read.csv function to read the 25 csv files
+
+Q) 3. write.xlsx file will be used to extract the content of each file and make it one directory file.
+
